@@ -1,0 +1,22 @@
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+body {
+    .header {
+        background-image: #fff;
+    } 
+    background-color: #fff;
+}
+.box{
+    font-size: 12px;
+    margin: 0;
+    padding: 0;
+    display: flex;   
+}
